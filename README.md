@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif" width="200"/>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ladya2003&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
